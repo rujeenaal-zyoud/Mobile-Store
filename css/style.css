@@ -1,0 +1,118 @@
+body{
+    background-image: url('https://i.stack.imgur.com/NX7PC.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: whitesmoke;
+
+}
+
+header h1{
+   padding-top: 30px;
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: RGB(78, 78, 78)
+    ;
+}
+
+table tr,th,td{
+    border: 1px solid white;
+    padding-left: 3px;
+}
+
+#parent{
+    font-family: 'Courgette', cursive;
+background-color: whitesmoke;
+    position: absolute;
+margin-left: 800px;
+margin-top: 220px;
+
+}
+table{
+
+    width: 300px;
+    padding-left: 10px;
+    /* height: 200px; */
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+table  th{
+    background-color: rgb(41, 39, 39);
+    color:WhiteSmoke;
+}
+ table,td{
+    background-color: RGB(78, 78, 78) !important;
+    color:WhiteSmoke;
+font-weight: lighter;
+/* font-size: 10px; */
+} 
+
+#style{
+    height: 200px;
+    /* background-color: green; */
+}
+
+
+form{
+    background-color: RGBA(211, 211, 211, 0.548);
+    height: 150px;
+    width: 300px;
+    padding-top: 50px;
+    margin-left: 200px;
+    padding-left: 25px;
+}
+#submit{
+    border-radius: 50px;
+    width: 200px;
+    margin-left: 30px;
+     background-color:   rgb(41, 39, 39);
+     color: whitesmoke;
+     font-weight: bolder;
+     margin-top: 10px;
+}
+label{
+    color: black;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+   margin-left: 100px;
+   margin-top: 20px;
+}
+
+input{
+    width: 200px;
+    margin-left: 30px;
+    border-radius: 20px;
+
+}
+
+#Type{
+    width: 200px;
+    margin-left: 30px;
+    border-radius: 20px;  
+}
+
+footer{
+    margin-top: 170px;
+    height: 80px;
+    color: RGB(78, 78, 78);
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    padding-top: 30px;
+
+}
+#button{
+    
+    /* background-color:   rgb(41, 39, 39); */
+    color: rgb(0, 0, 0);
+ border: 20px;
+    margin-left: 800px;
+}
